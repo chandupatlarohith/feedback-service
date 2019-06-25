@@ -1,0 +1,58 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+
+### common ###
+.mvn
+mvnw
+mvnw.cmd
+**/.settings
+**/.project
+**/.classpath
+**/.clover
+**/bin
+**/target
+**/.DS_Store
+.DS_Store
+.settings
+.project
+.classpath
+.sonarlint
+.metadata
+*.xml.releaseBackup
+/release.properties
+/.clover
+/bin
+/target/
+
+*.iml
+.idea
